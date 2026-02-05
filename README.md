@@ -4,6 +4,7 @@
 The **Medicine Recommendation System** is an NLP-based machine learning application designed to recommend suitable medicines based on user-provided symptoms. The system analyzes textual symptom data, processes it using Natural Language Processing techniques, and predicts appropriate medicines using an **XGBoost classifier**, an ensemble learning algorithm known for its high performance and accuracy.
 
 This project demonstrates the practical application of **NLP, feature extraction, and ensemble machine learning** in the healthcare domain.
+[You can explore my reasearch paper](https://ijirt.org/article?manuscript=181812)
 
 ---
 
